@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/KimJinSeong-Git/540619e5bd9d86bc3e4bd7dd584a795b
+          GIST_ID: https://gist.github.com/KimJinSeong-Git/f7cceae2d2d5a3507255ed1e72d12851
           TIMEZONE: Asia/Seoul
